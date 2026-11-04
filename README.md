@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://instagram.com/YOUR_INSTA_HANDLE">
+    <a href="[https://instagram.com/YOUR_INSTA_HANDLE](https://www.instagram.com/nullxor?dlrf=djc3MHlrOGd2ZTR5)">
       <img src="https://img.shields.io/badge/Instagram-Follow_%40nullxor-07070c?style=for-the-badge&logo=instagram&logoColor=00f5d4&labelColor=07070c" alt="Instagram" />
     </a>
     <a href="https://github.com/nullxor?tab=repositories">
